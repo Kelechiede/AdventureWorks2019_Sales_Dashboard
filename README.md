@@ -11,6 +11,7 @@ This Power BI dashboard provides a comprehensive analysis of reseller sales perf
 This page presents an overview of sales performance across different resellers, showcasing both revenue and quantity metrics. Key features include:
 
 Stacked Bar and Column Charts: Visualizing total sales revenue and quantity sold, highlighting top-performing resellers.
+
 Performance Overview: Offering a snapshot of sales distribution and reseller performance, setting the stage for more detailed analysis.
 
 
@@ -19,6 +20,7 @@ Performance Overview: Offering a snapshot of sales distribution and reseller per
 The "Trends Over Time" page delves into the temporal aspects of sales data, featuring:
 
 Line and Area Charts: Illustrating how sales revenue has changed over the years.
+
 Temporal Insights: Providing a crucial understanding of sales trends, aiding in the assessment of market dynamics and strategy impact.
 
 
@@ -27,6 +29,7 @@ Temporal Insights: Providing a crucial understanding of sales trends, aiding in 
 Focusing on the geographical aspect, this page offers insights into sales distribution across regions:
 
 Pie Chart Visualization: Displaying sales revenue breakdown by region.
+
 Slicers for Yearly Analysis: Enabling viewers to filter data by year and observe regional performance dynamics.
 
 
@@ -35,12 +38,14 @@ Slicers for Yearly Analysis: Enabling viewers to filter data by year and observe
 The final page provides a granular analysis of the sales data:
 
 Detailed Tables and Matrices: Showing in-depth data such as individual reseller performance across regions.
+
 Data-Driven Decisions: Facilitating detailed examination of sales figures for strategic planning and decision-making.
 
 
                                                         INTERACTING WITH THE DASHBOARD
 
 Navigation: Use the navigation buttons at the top right of each page to move between different sections of the dashboard.
+
 Filters and Slicers: Apply various filters and slicers available on the business regional distribution of sales page to refine the data view according to specific criteria.
 
 
