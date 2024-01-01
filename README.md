@@ -2,7 +2,7 @@
 
 
                                                        OVERVIEW
-This Power BI dashboard provides a comprehensive analysis of reseller sales performance, offering insights into sales revenue, quantity, trends over time, regional distribution, and detailed breakdowns. Designed to facilitate easy navigation and in-depth understanding, this dashboard serves as a valuable tool for analyzing market dynamics and sales strategy effectiveness.
+This Power BI dashboard provides a comprehensive analysis of reseller sales performance, offering insights into sales revenue, quantity, trends over time, regional distribution, and detailed breakdowns. Designed to facilitate easy navigation and in-depth understanding, this dashboard serves as a valuable tool for analyzing market dynamics and sales strategy effectiveness. The following software tools and data source were used: Microsoft SQL Server, Microsoft Power BI Desktop and AdventureWorksDB2019 file.
 
 
                                                        DASHBOARD PAGES
