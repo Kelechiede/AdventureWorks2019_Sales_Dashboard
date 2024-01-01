@@ -1,11 +1,11 @@
 # RESELLER SALES PERFORMANCE ANALYSIS DASHBOARD
 
 
-OVERVIEW
+                                                                         OVERVIEW
 This Power BI dashboard provides a comprehensive analysis of reseller sales performance, offering insights into sales revenue, quantity, trends over time, regional distribution, and detailed breakdowns. Designed to facilitate easy navigation and in-depth understanding, this dashboard serves as a valuable tool for analyzing market dynamics and sales strategy effectiveness.
 
 
-DASHBOARD PAGES
+                                                                         DASHBOARD PAGES
 1. SALES REVENUE & QUANTITY BY RESELLER
 
 This page presents an overview of sales performance across different resellers, showcasing both revenue and quantity metrics. Key features include:
@@ -38,10 +38,12 @@ Detailed Tables and Matrices: Showing in-depth data such as individual reseller 
 Data-Driven Decisions: Facilitating detailed examination of sales figures for strategic planning and decision-making.
 
 
-INTERACTING WITH THE DASHBOARD
+                                                                      INTERACTING WITH THE DASHBOARD
+
 Navigation: Use the navigation buttons at the top right of each page to move between different sections of the dashboard.
 Filters and Slicers: Apply various filters and slicers available on the business regional distribution of sales page to refine the data view according to specific criteria.
 
 
-CONCLUSION
+                                                                      CONCLUSION
+
 This dashboard is designed to provide a multi-dimensional view of reseller sales performance, offering valuable insights for strategic decision-making in sales and marketing. It serves as a testament to the ability to transform raw data into meaningful business insights.
